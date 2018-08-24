@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "443810332803",
+    "firebase_url": "https://strangersoccer-3bc5a.firebaseio.com",
+    "project_id": "strangersoccer-3bc5a",
+    "storage_bucket": "strangersoccer-3bc5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443810332803:android:065842dd7c2d4cae",
+        "android_client_info": {
+          "package_name": "com.ssstrangersoccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443810332803-hvpjo33igonfqvt6u739p4v0pujm3o82.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "443810332803-1p5tveitn847i3kdavjej18l52nfvov2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssstrangersoccer",
+            "certificate_hash": "1be0d3532bc3cc95e20f2ee8167fffb29b0ae94c"
+          }
+        },
+        {
+          "client_id": "443810332803-2qo65l32q6ju5u5r9lr4df3tcln7651u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssstrangersoccer",
+            "certificate_hash": "1fa3a9c4aba49cff74cc3bcd243aa89ebcb54823"
+          }
+        },
+        {
+          "client_id": "443810332803-ff0fj9vhf722im9q5h62av7u8b6rjau0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssstrangersoccer",
+            "certificate_hash": "cbbafda3f0f5c2ba7dc028a1e160346333baafd7"
+          }
+        },
+        {
+          "client_id": "443810332803-323rv5b5dc3rdpilfkjr6hgi2gsceqsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssstrangersoccer",
+            "certificate_hash": "5e06cdbc7804d3c691863ad58d74460f89263ede"
+          }
+        },
+        {
+          "client_id": "443810332803-mdmelj34bps1fvv5oke3elk1j99fqgnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK59wR7jDSWlE1EkxzW0GXN9LN2LACQ-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443810332803-hvpjo33igonfqvt6u739p4v0pujm3o82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443810332803-b11q4ldvflcjoq6t45huddqe1ul6ub89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.strangersoccer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
